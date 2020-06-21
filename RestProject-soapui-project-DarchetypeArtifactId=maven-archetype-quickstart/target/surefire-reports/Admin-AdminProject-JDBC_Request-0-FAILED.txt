@@ -1,0 +1,8 @@
+Status: FAILED
+Time Taken: 412
+Size: 52
+Timestamp: Sun Jun 21 20:27:59 IST 2020
+TestStep: JDBC Request
+
+----------------- Messages ------------------------------
+[Contains] Missing token [<CATEGORY.CATEGORY_ID>] in Response

@@ -1,0 +1,31 @@
+2020-06-21 20:27:43,431 INFO  [log] username = upskills_admin
+2020-06-21 20:27:43,433 INFO  [log] password = Talent4$$
+2020-06-21 20:27:45,521 INFO  [log] access token is : 00a5b452bb770efc9aeedccd6a26dbb27e1ae854
+2020-06-21 20:27:45,570 INFO  [log] HTTP status code: 200
+2020-06-21 20:27:45,571 INFO  [log] Access Token validated
+2020-06-21 20:27:46,203 INFO  [log] HTTP status code: 200
+2020-06-21 20:27:46,206 INFO  [log] Access Token validated
+2020-06-21 20:27:46,215 INFO  [log] Username = upskills_admin 
+2020-06-21 20:27:46,216 INFO  [log] Username validated
+2020-06-21 20:27:46,766 INFO  [log] productId = 1475
+2020-06-21 20:27:53,427 INFO  [log] categoryId = 1250
+2020-06-21 20:27:59,706 INFO  [log] HTTP status code: 200
+2020-06-21 20:27:59,709 INFO  [log] GetCategoryById method is successfull
+2020-06-21 20:38:40,503 INFO  [log] username = upskills_admin
+2020-06-21 20:38:40,505 INFO  [log] password = Talent4$$
+2020-06-21 20:38:44,949 INFO  [log] access token is : 6b2f8f3220b87197e19876d96c3565a17bfe7f4f
+2020-06-21 20:38:45,021 INFO  [log] HTTP status code: 200
+2020-06-21 20:38:45,022 INFO  [log] Access Token validated
+2020-06-21 20:38:45,708 INFO  [log] HTTP status code: 200
+2020-06-21 20:38:45,714 INFO  [log] Access Token validated
+2020-06-21 20:38:45,722 INFO  [log] Username = upskills_admin 
+2020-06-21 20:38:45,726 INFO  [log] Username validated
+2020-06-21 20:38:46,255 INFO  [log] productId = 1478
+2020-06-21 20:38:53,567 INFO  [log] categoryId = 1253
+2020-06-21 20:39:00,513 INFO  [log] HTTP status code: 200
+2020-06-21 20:39:00,514 INFO  [log] GetCategoryById method is successfull
+2020-06-21 20:39:00,878 INFO  [log] level = null
+2020-06-21 20:39:07,844 INFO  [log] HTTP status code: 200
+2020-06-21 20:39:07,847 INFO  [log] Method validated correctly
+2020-06-21 20:39:09,501 INFO  [log] HTTP status code: 200
+2020-06-21 20:39:09,502 INFO  [log] Logged out successfully
